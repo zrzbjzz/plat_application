@@ -15,4 +15,4 @@ server:
 spring:
   profiles: test #测试环境
   application:
-name: MICROSERVICE-USER-TEST
+    name: MICROSERVICE-USER-TEST
